@@ -11,8 +11,6 @@ while num <= n:
             prime = False
             break
         i += 1
-
     if prime:
         print(num)
-
     num += 1
